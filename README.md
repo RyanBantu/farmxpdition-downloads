@@ -1,2 +1,3 @@
-# farmxpdition-downloads
-Downloads for farmXPdition, a pixel-art RPG where real work grows your farm.
+# farmXPdition downloads
+
+This repository holds only the installers and the update file. The game's source code is private.
